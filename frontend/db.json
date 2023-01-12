@@ -1,0 +1,39 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "bucket_name": "education",
+      "id": 2
+    },
+    {
+      "bucket_name": "ifscs",
+      "id": 3
+    },
+    {
+      "bucket_name": "ujs",
+      "id": 4
+    },
+    {
+      "bucket_name": "yus v",
+      "id": 5
+    },
+    {
+      "bucket_name": "ed",
+      "id": 6
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
